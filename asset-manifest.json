@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookfriends/static/css/main.673fc9b5.css",
+    "main.js": "/bookfriends/static/js/main.1955f7c9.js",
+    "static/js/787.c00ffac0.chunk.js": "/bookfriends/static/js/787.c00ffac0.chunk.js",
+    "index.html": "/bookfriends/index.html",
+    "main.673fc9b5.css.map": "/bookfriends/static/css/main.673fc9b5.css.map",
+    "main.1955f7c9.js.map": "/bookfriends/static/js/main.1955f7c9.js.map",
+    "787.c00ffac0.chunk.js.map": "/bookfriends/static/js/787.c00ffac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673fc9b5.css",
+    "static/js/main.1955f7c9.js"
+  ]
+}
